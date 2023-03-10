@@ -18,4 +18,5 @@ goals that will be achieved :-
 how to run the prjoect :-
 1) client :- goto terminal and make sure you are inside client folder and install node modules,
    type "npm install". Once it's installed type "npm start".
-2) server : goto terminal and make sure you are inside server folder and type "npm run dev".
+2) server : goto terminal and make sure you are inside server folder and type "npm init" and then
+   type "npm install. Once it's installed type "npm run dev".
